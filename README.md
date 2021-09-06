@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksandr Markelov(@babilunga)
+- 👋 Hi, I’m Aleksandr Markelov
 - 👀 I’m interested in web and game development, AR technologies, video and photo editing
 - 🌱 I’m currently learning React technology
 - 📫 How to reach me - instagram/mark3lovvv
